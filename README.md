@@ -12,7 +12,7 @@ A C++ based engine designed to handle complex collision detection. In progress..
 A simple framework to test, compare and visualise various sorting algorithms in C++. In progress...
 
 ### OOP Library
-An Object-Oriented Programming library interface developed in C++.
+An Object-Oriented Programming book library interface developed in C++.
 
 ### Wind Turbine Fault Detection
 Engineer's thesis project utilizing supervised machine learning methods for fault detection in wind turbines, written in Python.
