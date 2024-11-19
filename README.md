@@ -6,10 +6,10 @@ This repo should be ideal representation of what I love about programming. Even 
 <h2 align="left">Projects:</h2>
 
 ### Collision Engine
-A C++ based engine designed to handle complex collision detection. In progress...
+A C++ based engine designed to handle complex collision detection. 
 
 ### Sorting Algorithms
-A simple framework to test, compare and visualise various sorting algorithms in C++. In progress...
+A simple framework to test, compare and visualise various sorting algorithms in C++. 
 
 ### OOP Library
 An Object-Oriented Programming book library interface developed in C++.
