@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Aleksander</h1>
+<h1 align="center">Hi, I'm Aleksander 👋</h1>
 <h3 align="center">A developer from Kraków, Poland</h3>
 
-This repo should be ideal representation of what I love about programming. Even though I might be still developing my skills I enjoy working on a wide variety of projects ranging from C++ Collision Engines to Python-based machine learning solutions for condition monitoring. Here you'll find repositories showcasing my work and interests.
+I enjoy working on a wide variety of projects ranging from C++ Collision Engines to Python-based machine learning solutions for condition monitoring. Here are some repositories showcasing my work and interests:
 
 <h2 align="left">Projects:</h2>
 
-### Collision Engine
-A C++ based engine designed to handle complex collision detection. 
-
 ### Sorting Algorithms
-A simple framework to test, compare and visualise various sorting algorithms in C++. 
+Simple framework to test, compare and visualise various sorting algorithms in C++. 
+
+### Collision Engine
+C++ based engine designed to handle complex collision detection.  
 
 ### OOP Library
-An Object-Oriented Programming book library interface developed in C++.
+Object-Oriented Programming book library interface developed in C++.
 
 ### Wind Turbine Fault Detection
 Engineer's thesis project utilizing supervised machine learning methods for fault detection in wind turbines, written in Python.
