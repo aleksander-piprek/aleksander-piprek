@@ -12,7 +12,7 @@ Simple framework to test, compare and visualise various sorting algorithms in C+
 C++ based engine designed to handle complex collision detection.  
 
 ### Conway's Game of Life
-Famous implementation of Conway's Game of Life using C++ and SFML.
+My implementation of famous Conway's Game of Life using C++ and SFML.
 
 ### Wind Turbine Fault Detection
 Engineer's thesis project utilizing supervised machine learning methods for fault detection in wind turbines, written in Python.
